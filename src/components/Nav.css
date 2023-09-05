@@ -23,7 +23,10 @@
 }
 
 .nav-name{
-    color: #1b0066;
+    color: #8d0000;
+    position: absolute;
+    bottom: 0;
+    top: -21px;
 }
 
 .nav-container-gray {
